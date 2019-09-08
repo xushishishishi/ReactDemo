@@ -28,7 +28,7 @@ export default class Task extends React.Component {
                             list,
                             name: ""
                         })
-                    }}>确定</button>
+                    }}>添加</button>
                 </div>
                 <div>
                     {list && list.map((item, index) => {
