@@ -1,0 +1,16 @@
+.buttonWrap {
+    margin-left: 16px;
+}
+
+.listItemName {
+    text-decoration-line: line-through;
+}
+
+.deleteButton {
+    margin-left: 16px;
+    display: none;
+}
+
+.listItem:hover .deleteButton {
+    display: inline;
+}
