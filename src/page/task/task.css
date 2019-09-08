@@ -14,3 +14,6 @@
 .listItem:hover .deleteButton {
     display: inline;
 }
+.buttonWarp{
+    margin-top: 16px;
+}
